@@ -4,7 +4,7 @@ Hi every one
 In this repository I collect my projects mainly in Java
 
 scraper 
-is a console program for web scraping
+is a console program for web scraping\n
 example: java -jar scraper.jar http://www.cnn.com Greece,default -v -w -c -e
   command line parameters:
     web resources URL or path plain text file containing a list of URLs
