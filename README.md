@@ -6,7 +6,6 @@ projects
 ###scraper 
 is a console program for web scraping\n
 example: java -jar scraper.jar http://www.cnn.com Greece,default -v -w -c -e<br/>  
-
   command line parameters:
     web resources URL or path plain text file containing a list of URLs
     word (or list of words with "," delimiter
